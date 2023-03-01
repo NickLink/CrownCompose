@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrownCompose</string>
+
+    <string name="nav_screen_whatson">WhatsOn</string>
+    <string name="nav_screen_rewards">Rewards</string>
+    <string name="nav_screen_notification">Notification</string>
+    <string name="nav_screen_details">Details</string>
+
+</resources>
